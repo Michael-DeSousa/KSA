@@ -25,6 +25,7 @@ Kickstarter Analytics supports the following features:
    - Most Successful Category: A breakdown of all Kickstarter categories, organized by the most successful category to the least successful
    - Failed Takeoffs: A breakdown of all Kickstarter Projects that had 0 backers
    - Funding v.s. Success Rate: A comparison of project success rates based on their funding goals
+   *Note: You can move your mouse over all pie slices, bars, data points, etc. for specific numbers and other information. This was not shown in the demo video.
 
 ## Technologies Used
 
